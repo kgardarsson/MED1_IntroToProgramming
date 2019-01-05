@@ -1,0 +1,4 @@
+class SnakeHead extends Snake {
+  
+  
+}
